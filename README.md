@@ -11,7 +11,7 @@
 
 > ii. Properly securing application ensures, application remains stable and that user’s data is safe.
 
-##### Link to [Catalog app](35.184.187.149)
+##### Link to [Catalog app](http://35.184.187.149)
 
   ```
     IP Address: 35.184.187.149
