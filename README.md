@@ -290,6 +290,3 @@ Source: [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-
    ```
     $ sudo service apache2 restart
    ```
-
-### Notes
- >ADD entire path before all files like (client_secrets.json) and (fb_client_secrets.json)
