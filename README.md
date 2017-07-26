@@ -16,7 +16,6 @@
   ```
     IP Address: 35.184.187.149
     SSH Port: 2200
-	PASS: 654321
   ```
 
 ### Steps Followed to Configure Linux server
